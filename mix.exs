@@ -1,7 +1,7 @@
 defmodule Snmp.MixProject do
   use Mix.Project
 
-  @version "0.2.1"
+  @version "0.2.1.pn"
   @source_url "https://github.com/jeanparpaillon/elixir-snmp"
 
   def project do
