@@ -51,9 +51,9 @@ defmodule Snmp.Agent.Config do
     community_conf: "community.conf",
     vacm_conf: "vacm.conf",
     usm_conf: "usm.conf",
-    notify_conf: "notify.conf",
-    target_conf: "target_addr.conf",
-    target_params_conf: "target_params.conf"
+    notify_conf: "x_notify.conf",
+    target_conf: "x_target_addr.conf",
+    target_params_conf: "x_target_params.conf"
   ]
 
   # Build agent configuration
